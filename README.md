@@ -1,1 +1,2 @@
-# Criando-jogos-com-la-os-de-repeti-o
+# Iniciando trabalhos com Javascript
+# Criando jogos com laços de repetição
